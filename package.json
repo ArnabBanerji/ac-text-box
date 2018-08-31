@@ -1,0 +1,20 @@
+{
+  "name": "ac-text-box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArnabBanerji/ac-text-box.git"
+  },
+  "keywords": [],
+  "author": "Arnab Banerji (reach.arnab@live.in)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArnabBanerji/ac-text-box/issues"
+  },
+  "homepage": "https://github.com/ArnabBanerji/ac-text-box#readme"
+}
